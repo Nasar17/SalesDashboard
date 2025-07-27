@@ -1,11 +1,8 @@
 # SalesDashboard
-This project aims to analyse the Superstore sales data and presents the KPI (Key performance Indicators) that have been crucial to stores
-# 📊 Excel Sales Dashboard – SuperStoreUS 2015
 
-A professional Excel dashboard built using **Power Query**, **Pivot Tables**, **Slicers**, and **Charts** to analyze and visualize key insights from the SuperStoreUS 2015 dataset.
+This Excel project features an interactive and insightful dashboard built on the **Super Store Sales** dataset from 2015. The dashboard provides comprehensive sales analysis through dynamic visualizations, pivot tables, and slicers, allowing users to explore sales performance across different regions, product categories, and time periods.
 
-![Dashboard Preview](./Screenshot 2025-07-26 195717.png)
-
+![Dashboard Preview](./Screenshot%202025-07-26%20195717.png)
 ---
 
 ## 🧩 Features
@@ -31,12 +28,19 @@ A professional Excel dashboard built using **Power Query**, **Pivot Tables**, **
 
 ---
 
+## 🧭 Navigation Helper
+
+Includes custom navigation texts and buttons that help users move smoothly between different sheets 
+
+![Navigation Preview](Screenshot%202025-07-26%20204558.png)
+
+---
+
 ## 🖼️ Slicer Controls
 
 Easily explore the data by applying dynamic filters:
 
-![Slicer Controls](./Screenshot%202025-07-26%20195844.png)
-
+![Slicer Controls](./Screenshot%202025-07-26%20195801.png)
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -49,6 +53,3 @@ Easily explore the data by applying dynamic filters:
 - Custom layout & formatting
 
 ---
-
-## 📁 File Structure
-
