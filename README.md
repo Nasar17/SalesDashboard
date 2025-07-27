@@ -4,7 +4,7 @@ This project aims to analyse the Superstore sales data and presents the KPI (Key
 
 A professional Excel dashboard built using **Power Query**, **Pivot Tables**, **Slicers**, and **Charts** to analyze and visualize key insights from the SuperStoreUS 2015 dataset.
 
-![Dashboard Preview](./Screenshot%202025-07-26%20195801.png)
+![Dashboard Preview](./Screenshot 2025-07-26 195717.png)
 
 ---
 
